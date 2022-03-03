@@ -2,6 +2,7 @@
 layout: default
 title: "README"
 permalink: /readme/
+usemathjax: true
 ---
 
 # beergeese.github.io
