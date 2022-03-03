@@ -8,6 +8,6 @@ permalink: /readme/
 
 Let's use GitHub to make websites.
 
-$$$
+$$
 E=mc^2
-$$$
+$$
