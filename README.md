@@ -9,6 +9,4 @@ usemathjax: true
 
 Let's use GitHub to make websites.
 
-$$
-E=mc^2
-$$
+$$E=mc^2$$
