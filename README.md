@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "README"
 permalink: /readme/
 ---
@@ -7,3 +7,7 @@ permalink: /readme/
 # beergeese.github.io
 
 Let's use GitHub to make websites.
+
+$$$
+E=mc^2
+$$$
